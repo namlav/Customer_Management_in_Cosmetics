@@ -1,4 +1,6 @@
 # Customer_Management_in_Cosmetics
 Project OOP using c#.
-
-Tải về và giải nén thư mục để sử dụng.
+How to use:
+Open with Visual Studio.
+or.
+Downloading the file and extract to use.
